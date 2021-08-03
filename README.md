@@ -4,7 +4,7 @@
 
 We implement our property-based test on three common POS tagging tools (e.g., spaCy, NLTK, and Flair) with a series of python scripts.
 
-*All the data are stored in `MRs.zip`.*
+*All the code is stored in the folder `MRs`.*
 #### (the OntoNotes5.0 dataset can be downloaded from https://catalog.ldc.upenn.edu/LDC2013T19)
 
 ---
@@ -47,7 +47,7 @@ python MR2-2.py \
 
 We provide the raw test result files.
 
-*All the data are stored in `results.zip`.*
+*All the data are stored in the folder `results`.*
 
 ---
 
